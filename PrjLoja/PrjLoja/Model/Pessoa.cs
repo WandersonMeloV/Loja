@@ -17,6 +17,7 @@ namespace PrjLoja.Model
         public string FoneCel { get; set; }
         public string Documento { get; set; }
         public string Sexo { get; set; }
+        public string EstadoCivil { get; set; }
 
     }
 }
