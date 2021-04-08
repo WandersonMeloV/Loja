@@ -1,0 +1,16 @@
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\PrjLoja.exe
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\PrjLoja.deps.json
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\PrjLoja.runtimeconfig.json
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\PrjLoja.runtimeconfig.dev.json
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\PrjLoja.dll
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\ref\PrjLoja.dll
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\bin\Debug\net5.0\PrjLoja.pdb
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.csprojAssemblyReference.cache
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.AssemblyInfo.cs
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.dll
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\ref\PrjLoja.dll
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.pdb
+C:\Desenvolvimento\Loja\PrjLoja\PrjLoja\obj\Debug\net5.0\PrjLoja.genruntimeconfig.cache
