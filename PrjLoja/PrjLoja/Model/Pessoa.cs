@@ -18,6 +18,9 @@ namespace PrjLoja.Model
         public string Documento { get; set; }
         public string Sexo { get; set; }
         public string EstadoCivil { get; set; }
+        public string Tipo { get; set; }
+        public string Renda { get; set; }
+
 
     }
 }
